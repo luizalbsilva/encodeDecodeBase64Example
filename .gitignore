@@ -1,0 +1,8 @@
+.svn
+bin
+bin/*
+lib/*
+build/*
+dist/*
+target/*
+.git
